@@ -1,0 +1,33 @@
+version: "3.8"
+services:
+#  db:
+
+  backend:
+    build:
+      context: dockerfiles
+      dockerfile: jdk.dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+    - ./backend:/app/backend
+
+  angular:
+    build:
+      context: frontend
+      dockerfile: angular.dockerfile
+    ports:
+    - "4200:4200"
+    volumes:
+    - ./frontend:/app
+#    - ./frontend/frontend/dist/angular:/usr/share/nginx/html
+#    - ./frontend/nginx.conf:/etc/nginx/nginx.conf
+#      - ./frontend/frontend/src:/app/frontend/src
+
+
+
+
+    #image: 'openjdk:11'
+    # нужна для разработки и запаковки
+
+    #Запускает maven и запаковывает
+

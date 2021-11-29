@@ -10,7 +10,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8e449cc-d1fa-4cf7-aebf-950f9d4d567f" name="Default Changelist" comment="" />
+    <list default="true" id="e8e449cc-d1fa-4cf7-aebf-950f9d4d567f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfiles/jdk.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfiles/jdk.dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular.dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/dist/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/styles.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/dist/frontend/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/nginx.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nginx.dockerfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,21 +50,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/frontend/src/app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Workspace\1. personal_library\frontend\frontend\src\app" />
-      <recent name="E:\Workspace\1. personal_library\dockerfiles" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Workspace\1. personal_library\frontend" />
       <recent name="E:\Workspace\1. personal_library\frontend\frontend" />
       <recent name="E:\Workspace\1. personal_library\fortend" />
       <recent name="E:\Workspace\1. personal_library" />
       <recent name="E:\Workspace\1. personal_library\backend\dockerfiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\1. personal_library\frontend\frontend\src\app" />
+      <recent name="E:\Workspace\1. personal_library\dockerfiles" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,7 +92,7 @@
       <workItem from="1636998011980" duration="383000" />
       <workItem from="1637023836215" duration="13389000" />
       <workItem from="1637056642960" duration="9631000" />
-      <workItem from="1637113989300" duration="476000" />
+      <workItem from="1637113989300" duration="9414000" />
     </task>
     <servers />
   </component>
@@ -104,6 +125,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1636992295671" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1637130549810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1637130549810" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1637130549810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1637130549810" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1637130549810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1637130549810" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1637130549810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1637130549810" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1637114118571">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
